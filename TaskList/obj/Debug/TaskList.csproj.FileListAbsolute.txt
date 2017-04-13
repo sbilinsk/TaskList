@@ -1,0 +1,15 @@
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\obj\Debug\TaskList.Form1.resources
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\obj\Debug\TaskList.Properties.Resources.resources
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\TaskList.exe.config
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\TaskList.exe
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\TaskList.pdb
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\obj\Debug\TaskList.exe
+c:\users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\obj\Debug\TaskList.pdb
+C:\Users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\EntityFramework.dll
+C:\Users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\MySql.Data.dll
+C:\Users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\EntityFramework.xml
+C:\Users\s.bilinski\Desktop\Code\c#\TaskList\TaskList\bin\Debug\EntityFramework.SqlServer.xml
